@@ -1,0 +1,20 @@
+.w{width: 1190px;}
+.minw{width: 100%;min-width: 1190px;}
+.f16{font-size: 16px;}
+.f18{font-size: 18px;}
+.c0{color: #000;}
+.c1{color: #111;}
+.c3{color: #333;}
+.c6{color: #666;}
+.c9{color: #999;}
+.cr{color: #e3170d;}
+.bdc{border: 1px solid #ccc;}
+.bgdf{background-color: #dfdfdf;}
+.bgf2{background-color: #f2f2f2;}
+.bgf{background-color: #fff;}
+.btnr{color:#e3170d;background-color: #fff;border: 1px solid #e3170d;}
+.btnrf{color:#fff;background-color: #e3170d;}
+.btng{color:#666;background-color: #fff;border: 1px solid #666;}
+.btngf{color:#e3170d;background-color: #fff;border: 1px solid #e3170d;}
+.nowrap1 {overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+.nowrap2 {word-break: break-all;overflow: hidden;text-overflow: ellipsis;display: -webkit-box;-webkit-box-orient: vertical;-webkit-line-clamp: 2;}
