@@ -1,3 +1,6 @@
+.f10{font-size: 10px;}
+.f12{font-size: 12px;}
+.f14{font-size: 14px;}
 .f16{font-size: 16px;}
 .f18{font-size: 18px;}
 .f20{font-size: 20px;}
@@ -6,6 +9,7 @@
 .c3{color: #333;}
 .c6{color: #666;}
 .c9{color: #999;}
+.cf{color: #fff;}
 .cb{color: #0000ff;}
 .cr{color: #e3170d;}
 .crf{color: #ff0000;}
@@ -21,9 +25,13 @@
 .btnrf{color:#fff;background-color: #ff0000;border: 1px solid #ff0000;}
 .btng{color:#666;background-color: #fff;border: 1px solid #666;}
 .btngf{color:#fff;background-color: #666;border: 1px solid #666;}
+.tleft{text-align: left;}
 .tcenter{text-align: center;}
+.tright{text-align: right;}
 .bcenter{margin: 0 auto;}
+.vt{vertical-align: top;}
 .vm{vertical-align: middle;}
+.vb{vertical-align: bottom;}
 .hand{cursor:pointer;}
 .udl{text-decoration: underline;}
 .inblock{display: inline-block;}
